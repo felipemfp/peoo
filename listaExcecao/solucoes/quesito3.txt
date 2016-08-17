@@ -1,0 +1,1 @@
+De que você pode continuar a executar o algoritmo mesmo dando erro, e tentar executar todas as instruções do try.

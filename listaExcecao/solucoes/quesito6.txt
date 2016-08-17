@@ -1,0 +1,1 @@
+Para gerar exceções, na qual tenha algum objeto de erro na execução do algoritmo.

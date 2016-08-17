@@ -1,0 +1,1 @@
+Irá acontecer um erro e irá acabar com a execução do algoritmo, pois o erro não foi tratado com o catch.

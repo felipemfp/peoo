@@ -1,0 +1,1 @@
+Como não haverá exceção dentro do try, todas as instruções dentro dele serão executadas, podendo encerrar o algoritmo ou não, dependendo das instruções que são dadas dentro dele.

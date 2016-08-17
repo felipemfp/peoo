@@ -1,0 +1,1 @@
+Para liberar recursos como manipuladores de arquivos e conexões com bancos de dados.

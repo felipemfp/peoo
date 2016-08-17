@@ -1,0 +1,5 @@
+Try – é nele que estão todas as instruções do algoritmo, tentando executar todas elas. Caso algum erro aconteça ele para de executar o q tá dentro do try para executar o catch, mas se não acontecer nenhum erro, executará o finally, caso esteja dentro do algoritmo.
+
+Catch – é nele que os erros nos algoritmos são tratados. Quando existe erro no try, ele é executado. Ele trata os erros para continuar a executar o algoritmo. O catch não será executado se o try não encontrar erro.
+
+Finally – ele é utilizado para liberar recursos como manipuladores de arquivos e conexões com bancos de dados. Quando ele está no algoritmo ele sempre será executado, mesmo existindo algum erro no try ou não.
